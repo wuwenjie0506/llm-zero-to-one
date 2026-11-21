@@ -63,7 +63,8 @@
 .
 ├── README.md
 ├── lessons/          # 学习笔记（markdown）
-│   └── 01-self-attention.md
+│   ├── 01-self-attention.md
+│   └── ffn-and-neural-networks-history.md
 └── code/             # 配套代码
     └── self_attention.py
 ```
