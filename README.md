@@ -36,10 +36,26 @@
 
 ## 推荐资源
 
-- Andrej Karpathy《Let's build GPT: from scratch》/ `nanoGPT`
-- Jay Alammar《The Illustrated Transformer》
-- 3Blue1Brown 神经网络 / 注意力可视化
-- Hugging Face Course
+### 3Blue1Brown（神经网络 / 注意力可视化）
+
+- 官网：[3blue1brown.com](https://www.3blue1brown.com/)
+- 神经网络专题：[3blue1brown.com/topics/neural-networks](https://www.3blue1brown.com/topics/neural-networks)
+- B 站官方号（国内可看）：[space.bilibili.com/88461692](https://space.bilibili.com/88461692)
+- 神经网络 4 集：
+  - [But what is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk)
+  - [Gradient descent, how neural networks learn](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+  - [What is backpropagation really doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
+  - [Backpropagation calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8)
+- GPT / 注意力可视化 3 集：
+  - [But what is a GPT? Visual intro to transformers](https://www.youtube.com/watch?v=wjZofJX0v4M)
+  - [Attention in transformers, visually explained](https://www.youtube.com/watch?v=eMlx5fFNoYc)
+  - [How might LLMs store facts](https://www.youtube.com/watch?v=9-Jl0dxWQs8)
+
+### 其他
+
+- Andrej Karpathy《Let's build GPT: from scratch》/ [nanoGPT](https://github.com/karpathy/nanoGPT)
+- Jay Alammar《[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)》
+- [Hugging Face Course](https://huggingface.co/learn)
 
 ## 目录结构
 
